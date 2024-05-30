@@ -1,4 +1,6 @@
 #SQL CHALLENGE
+
+
 Helllo, in this repository you will find my homework for the Module 9 Challenge. This homework has been made with the help of differents sources: Xpert Learning Assistant, my teammates Yesmelin P. and myself Amanda Lor.
 
 Requirements:
