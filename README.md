@@ -1,14 +1,14 @@
-SQL CHALLENGE
+#SQL CHALLENGE
 Helllo, in this repository you will find my homework for the Module 9 Challenge. This homework has been made with the help of differents sources: Xpert Learning Assistant, my teammates Yesmelin P. and myself Amanda Lor.
 
 Requirements:
 
---Data Modeling 
+#-Data Modeling 
 
 Entity Relationship Diagram is included or table schemas provided for all tables 
 
 
-Data Engineering
+#-Data Engineering
 
 All required columns are defined for each table
 
@@ -25,7 +25,7 @@ Correctly uses NOT NULL condition on necessary columns
 Accurately defines value length for columns 
 
 
-Data Analysis
+#-Data Analysis
 
 List the employee number, last name, first name, sex, and salary of each employee
 
