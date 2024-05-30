@@ -1,12 +1,12 @@
-DROP TABLE IF EXISTS departments;
-DROP TABLE IF EXISTS employees;
-DROP TABLE IF EXISTS dept_employees;
-DROP TABLE IF EXISTS dept_manager;
-DROP TABLE IF EXISTS salaries;
-DROP TABLE IF EXISTS titles;
-DROP TABLE titles CASCADE;
-DROP TABLE employees CASCADE;
-DROP TABLE departments CASCADE;
+--DROP TABLE IF EXISTS departments;
+--DROP TABLE IF EXISTS employees;
+--DROP TABLE IF EXISTS dept_employees;
+--DROP TABLE IF EXISTS dept_manager;
+--DROP TABLE IF EXISTS salaries;
+--DROP TABLE IF EXISTS titles;
+--DROP TABLE titles CASCADE;
+--DROP TABLE employees CASCADE;
+--DROP TABLE departments CASCADE;
 
 -- Data engineering 
 -- Creating tables
