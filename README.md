@@ -3,7 +3,7 @@ Helllo, in this repository you will find my homework for the Module 9 Challenge.
 
 Requirements:
 
-Data Modeling 
+--Data Modeling 
 
 Entity Relationship Diagram is included or table schemas provided for all tables 
 
